@@ -67,6 +67,8 @@ table#movies th, table#movies td {
   background: rosybrown;
   margin: 1em 0;
   padding: 4px;
+  text-align: center;
+  color: red;
 }
 form label {
   display: block;
